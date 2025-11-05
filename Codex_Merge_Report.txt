@@ -1,0 +1,17 @@
+Build: Codex_Universal_Complete_v1.6.2_to_1.11.0+
+Copied 2534 files from /mnt/data/codex_merge_tmp/game_1.11.0/common into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/common (dedup skipped 0)
+Copied 287 files from /mnt/data/codex_merge_tmp/game_1.11.0/events into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/events (dedup skipped 0)
+Copied 138 files from /mnt/data/codex_merge_tmp/game_1.11.0/localization into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/localization (dedup skipped 0)
+Copied 2035 files from /mnt/data/codex_merge_tmp/game_1.7.6/common into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.7.6/common (dedup skipped 0)
+Copied 239 files from /mnt/data/codex_merge_tmp/game_1.7.6/events into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.7.6/events (dedup skipped 0)
+Copied 116 files from /mnt/data/codex_merge_tmp/game_1.7.6/localization into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.7.6/localization (dedup skipped 0)
+Copied 2280 files from /mnt/data/codex_merge_tmp/game_1.8.2/common into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.8.2/common (dedup skipped 0)
+Copied 262 files from /mnt/data/codex_merge_tmp/game_1.8.2/events into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.8.2/events (dedup skipped 0)
+Copied 125 files from /mnt/data/codex_merge_tmp/game_1.8.2/localization into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.8.2/localization (dedup skipped 0)
+Copied 2374 files from /mnt/data/codex_merge_tmp/game_1.9.8/common into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.9.8/common (dedup skipped 0)
+Copied 266 files from /mnt/data/codex_merge_tmp/game_1.9.8/events into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.9.8/events (dedup skipped 0)
+Copied 130 files from /mnt/data/codex_merge_tmp/game_1.9.8/localization into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.9.8/localization (dedup skipped 0)
+Copied 2534 files from /mnt/data/codex_merge_tmp/game_1.10.6/common into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.10.6/common (dedup skipped 0)
+Copied 287 files from /mnt/data/codex_merge_tmp/game_1.10.6/events into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.10.6/events (dedup skipped 0)
+Copied 137 files from /mnt/data/codex_merge_tmp/game_1.10.6/localization into /mnt/data/Codex_Universal_Complete_v1.6.2_to_1.11.0+/legacy/1.10.6/localization (dedup skipped 0)
+Semantic maps discovered: 1

@@ -1,0 +1,24 @@
+# Ignore system and temp files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.old
+*.log
+
+# Ignore local IDE and environment folders
+__pycache__/
+.vscode/
+.idea/
+
+# Ignore compression leftovers
+*.zip
+*.7z
+*.rar
+
+# Ignore game cache or compiled artifacts
+cache/
+temp/
+logs/
+output/

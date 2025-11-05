@@ -1,0 +1,17 @@
+﻿CHARACTERS = {
+	c:NBS ?= {
+		create_character = {
+			template = NBS_archibald_campbell
+		}	
+
+		create_character = {
+			template = NBS_charles_simonds
+		}
+		create_character = {
+			template = NBS_edward_chandler
+		}
+		create_character = {
+			template = NBS_thomas_baillie
+		}
+	}
+}

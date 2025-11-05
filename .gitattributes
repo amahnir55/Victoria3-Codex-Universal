@@ -1,0 +1,15 @@
+# Treat large binary or compressed files with Git LFS
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.dds filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+
+# Normalize line endings for text-based files
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+
+# Preserve UTF-8 encoding for localization and scripts
+*.yml text working-tree-encoding=UTF-8
+*.loc text working-tree-encoding=UTF-8

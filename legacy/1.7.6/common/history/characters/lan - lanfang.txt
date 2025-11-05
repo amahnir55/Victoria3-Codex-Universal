@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:LAN ?= {
+		create_character = {
+			# Liu Taiji
+			first_name = "Taiji"
+			last_name = "Liu"
+			historical = yes
+			ruler = yes
+			ig_leader = yes
+			# unknown age
+			interest_group = ig_petty_bourgeoisie
+			ideology = ideology_moderate
+			traits = {
+				meticulous
+			}
+		}	
+	}
+}
+		}
+		}	
+	}
+}
+	}
+}
+
+	}
+}
+	traits = {
+			}
+		}	
+	}
+}
+s = {
+				persistent
+			}
+		}	
+	}
+}
+cter = {
+			template = KOR_namgung_ok
+		}
+	}
+}
+
+der relative of Muhammad Ali
+			interest_group = ig_landowners
+			ideology 
