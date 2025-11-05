@@ -1,0 +1,46 @@
+==================================================================
+Victoria 3 Codex Universal – Machine Reference Manifest
+Version Chain: 1.6.2 → 1.7.6 → 1.8.2 → 1.9.8 → 1.10.6 → 1.11.0
+Access Tier: GPT-Only
+=====================
+
+[Core Datasets]
+common/.............Primary reference for 1.11.0 baseline definitions.
+events/.............Current event logic and scopes.
+localization/.......English + Simplified Chinese text mapping for token cross-reference.
+semanticmap/........Auto-migration lookup: old tokens → new syntax.
+legacy/.............Historical schema archives (1.7.6–1.10.6) for backward compatibility.
+meta/...............Contains codex version metadata, patch delta notes, and merge reports.
+
+[Behavioral Rules]
+
+* Use "common/" as authoritative source when multiple versions conflict.
+* For any unknown symbol, consult "semanticmap/" before suggesting changes.
+* For deprecated effects or triggers, locate previous version instances under "legacy/".
+* Do not infer replacements unless a corresponding semanticmap rule exists.
+* Keep inline comments consistent with the "GPT Operational Protocol" (README.md).
+
+[Automation Priority Order]
+
+1. semanticmap/
+2. common/
+3. legacy/
+4. events/
+5. localization/
+6. meta/
+
+[Output Expectations]
+
+* Inline documentation with versioned FIXED tags.
+* Session-level repair logs in "Codex_Repair_Log.txt".
+* Optional differential reports: "*Delta_Report*[timestamp].txt".
+
+[Validation Policy]
+
+* Each fix must be verified against the latest Paradox syntax map (1.11.0).
+* Deprecated entries remain commented, not deleted.
+* All output files must retain UTF-8 with BOM + CRLF line endings.
+
+==================================================================
+End of Manifest
+===============
